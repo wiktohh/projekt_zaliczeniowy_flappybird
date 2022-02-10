@@ -1,0 +1,9 @@
+﻿  flappybird.cpp
+C:\Users\Wiktor\Desktop\projekt\flappybird\flappybird.cpp(74,28): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Wiktor\Desktop\projekt\flappybird\flappybird.cpp(98,26): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Wiktor\Desktop\projekt\flappybird\flappybird.cpp(105,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Wiktor\Desktop\projekt\flappybird\flappybird.cpp(110,31): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Wiktor\Desktop\projekt\flappybird\flappybird.cpp(233,30): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Wiktor\Desktop\projekt\flappybird\flappybird.cpp(234,30): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Wiktor\Desktop\projekt\flappybird\flappybird.cpp(235,30): warning C4305: "argument": obcięcie z "double" do "float"
+  flappybird.vcxproj -> C:\Users\Wiktor\Desktop\projekt\flappybird\Debug\flappybird.exe
